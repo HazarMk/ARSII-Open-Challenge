@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+.python-version
+
+# Virtual environments
+venv/
+.venv/
+medscan-ai/venv/
+
+# Node / React
+node_modules/
+dist/
+medscan-web/node_modules/
+medscan-web/dist/
+npm-debug.log*
+
+# Flutter (legacy folder)
+medscan-ui/.dart_tool/
+medscan-ui/build/
+medscan-ui/.flutter-plugins
+medscan-ui/.flutter-plugins-dependencies
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
